@@ -5,4 +5,5 @@ sudo chown to change file owner
 touch to create a new empty file
 chmod 701 to give execute permission
 chmod u+x,g+x,o+r give user and group to execute the file
-chmod ugo+x to give all permission to execute  
+chmod ugo+x to give all permission to execute
+chmod 007 to give other all permission and no permission to user and group  
